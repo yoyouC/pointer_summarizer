@@ -1,2 +1,7 @@
-*.pyc 
+*.pyc
 *.bin
+*.sh
+config.py
+.vscode
+dataset
+log
